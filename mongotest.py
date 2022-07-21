@@ -17,7 +17,8 @@ coll.insert_one(d)
 d = {
     "name" : 'Sai',
     "email" : 'sai@gmail.com',
-    "surname" : 'Rout'
+    "surname" : 'Rout',
+    'friends' : ['Sid','Somu','Kanhu']
 }
 
 d = {
